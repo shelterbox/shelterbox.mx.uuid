@@ -1,0 +1,9 @@
+﻿Buildfile: C:\Mendix\Apps\shelterbox.mx.uuid\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 1 file to C:\Mendix\Apps\shelterbox.mx.uuid\deployment
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
