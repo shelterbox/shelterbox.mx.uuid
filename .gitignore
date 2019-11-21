@@ -1,0 +1,4 @@
+deployment/
+temp/
+*.mpr
+*.mpr.lock
